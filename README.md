@@ -1,5 +1,5 @@
 # html-template
-This is my personal learning project.Anyone can use for there personal use.
+This is my personal learning project. Anyone can use for there personal use.
 After clone please save this file in **html** extension.
 ## Here I use..
 1. Html 5
